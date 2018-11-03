@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 test6_p
 test6_w1
 test6_p2
 test6_w2
+=======
+test6_p
+>>>>>>> parent of d2e37a8... test6
