@@ -1,3 +1,4 @@
 test6_p
 test6_w1
 test6_p2
+test6_w2
